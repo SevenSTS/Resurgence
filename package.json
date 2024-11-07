@@ -1,8 +1,8 @@
 {
     "name": "Resurgence-Launcher",
     "preductname": "Résurgence Launcher",
-    "version": "1.0.2",
-    "description": "Launcher Mincraft pour le serveur Résurgence",
+    "version": "1.0.5",
+    "description": "Launcher Minecraft pour le serveur Résurgence",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Seven, Inc.",
